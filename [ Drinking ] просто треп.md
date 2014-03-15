@@ -3,3 +3,4 @@
 
 … тут могут быть ваши темы и ссылки
 - хочу послушать Alex Ott, Alena C++ (можно сразу с мужем)
+- Model Driven Architecture / Ontology Driven Development
