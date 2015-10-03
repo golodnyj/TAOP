@@ -10,3 +10,5 @@ http://bit.ly/TAOP94Evolution
 Kotlin in Action // Dmitry Jemerov and Svetlana Isakova // http://bit.ly/TAOP94Kotlin
 Why writing JavaScript applications in TypeScript // Yakov Fain // http://bit.ly/TAOP94JSandTS
 Внутреннее устройство PostgreSQL для практикующих инженеров // Илья Космодемьянский // http://bit.ly/TAOP94PostgreSQL
+
+ПС. Новые темы для выпусков тут: https://github.com/golodnyj/TAOP.git
