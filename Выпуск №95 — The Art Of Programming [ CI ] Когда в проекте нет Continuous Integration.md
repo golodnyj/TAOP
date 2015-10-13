@@ -3,6 +3,7 @@
 + Где мой револьвер // History about Git: target, test and deploy 
 + Сказ о том, как и почему Android стал закрытым
 + Что такое и как работает OutOfMemoryKiller в Android
++ Никогда не говорите "я не знаю" своему менеджеру ;) (может пойдет в 96)
 
 
 Warlords of Documentation: A Proposed Expansion of Stack Overflow // http://bit.ly/TAOP95StackOverflow
