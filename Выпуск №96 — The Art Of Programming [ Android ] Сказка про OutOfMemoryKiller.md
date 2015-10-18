@@ -1,4 +1,4 @@
-# Выпуск №96 — The Art Of Programming [ CI ] Когда в проекте нет Continuous Integration
+# Выпуск №96 — The Art Of Programming [ Android ] Сказка про OutOfMemoryKiller
 
 Но до тех пор, пока людей не научат воздерживаться от бездоказательных суждений, какой-нибудь самонадеянный пророк сможет увести их за собой куда угодно… // Нассим Николас Талеб
 
@@ -13,3 +13,7 @@ Building a Bank with Go // Matt Heath // Golang UK Conference 2015 http://bit.ly
 «Кажется, мы сделали главный „просто сайт“ в стране» // http://bit.ly/TAOP96pochta
 
 ПС: Поблагодарить: Logan54, Dmitry, SergeyTrusov, eqlbin, Vladimir Starostenkov, chedv13
+
+Новые темы для выпусков тут http://bit.ly/TAOPgit
+Подписаться на подкаст через iTunes http://bit.ly/TAOPiTunes
+Подписаться на подкаст по RSS без iTunes http://bit.ly/TAOPrss
