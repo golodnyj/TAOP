@@ -6,3 +6,4 @@
 - Фронтенд-разработка. HTML + CSS как ассемблер для веба. Высокоуровневые Jade и Stylus.
 - Functional Reactive Programming for the Web.
 - IntelliJ IDEA Tips & Tricks
+- Системы типов. WTF.
