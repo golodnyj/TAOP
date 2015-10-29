@@ -17,3 +17,8 @@ Building a Bank with Go // Matt Heath // Golang UK Conference 2015 http://bit.ly
 Новые темы для выпусков тут http://bit.ly/TAOPgit
 Подписаться на подкаст через iTunes http://bit.ly/TAOPiTunes
 Подписаться на подкаст по RSS без iTunes http://bit.ly/TAOPrss
+Скачать подкаст тут http://bit.ly/TAOP96mp3
+
+
+твит: 
+Сказка про OutOfMemoryKiller в подкасте The Art Of Programming ,96 выпуск  http://bit.ly/TAOP96share подписывайтесь в iTunes +)
