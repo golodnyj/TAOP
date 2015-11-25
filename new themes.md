@@ -7,5 +7,5 @@
 - Functional Reactive Programming for the Web.
 - IntelliJ IDEA Tips & Tricks
 - Системы типов. WTF.
-- MongoDB and joins 0_0
+
 - DropBox paper
