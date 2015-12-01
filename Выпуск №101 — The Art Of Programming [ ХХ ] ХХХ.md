@@ -1,22 +1,24 @@
-Выпуск №99 — The Art Of Programming [ ХХ ] ХХХ.md
+Выпуск №101 — The Art Of Programming [ ХХ ] ХХХ.md
 
 + Статья от подслушателя c3p но ее мы обсудим в 101 выпуске
 
 + Вопрос из комментария про тестировщика:
 спасибо, а можешь рассказать, в одном из выпусков ты говорил о тестировщике который перешёл в разрабы, сколько ему было лет в тот момент ? У меня такой же случай просто, я уже много лек qa и уже несколько лет пытаюсь перейти в девы изучая все вокруг, но все равно понимаю, что у ромень у меня джуна. Спасибо заранее.
 
-+ Электронный учебник «Типографика и вёрстка»
-http://artgorbunov.ru/projects/book-typography/
++ Электронный учебник «Типографика и вёрстка» // http://artgorbunov.ru/projects/book-typography/
 
-+ Видео всех докладов с конференции SECR-2015
-https://vimeo.com/album/3638059
++ Видео всех докладов с конференции SECR-2015 // https://vimeo.com/album/3638059
 
-+ Школа данных «Билайн» начало занятий с 25 января.
-http://bigdata.beeline.digital/
++ Школа данных «Билайн» начало занятий с 25 января. // http://bigdata.beeline.digital/
 
++ Paw // The ultimate REST client for Mac // https://luckymarmot.com/paw
+
++ Postman  // Modern software is built on APIs. Postman helps you build APIs faster. // https://www.getpostman.com
 
 + 8 surprising facts about real Docker adoption - Datadog (отличная инфографика и факты для задуматься)
 https://www.datadoghq.com/docker-adoption/
+
++ Перевод от Паша Вотчинцев // Пользуйтесь подсветкой кода // http://habrahabr.ru/post/271841/ Это обзор и частичный перевод статьи Advait Sarkar из Computer Laboratory, University of Cambridge «The impact of syntax colouring on program comprehension». http://ppig.org/sites/default/files/2015-PPIG-26th-Sarkar.pdf
 
 + Empire of Code is a space game with a mix of strategy, tactics and coding.
 js and python
