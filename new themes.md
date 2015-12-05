@@ -7,5 +7,7 @@
 - Functional Reactive Programming for the Web.
 - IntelliJ IDEA Tips & Tricks
 - Системы типов. WTF.
+- traffic-flow http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/traffic-flow.html
+- Why mobile web apps are slow http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/
 
 - DropBox paper
