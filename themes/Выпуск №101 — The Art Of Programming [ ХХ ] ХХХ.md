@@ -1,4 +1,4 @@
-Выпуск №101 — The Art Of Programming [ ХХ ] ХХХ.md
+Выпуск №101 — The Art Of Programming [ DB ] Зачем хранимые процедуры?.md
 
 + Зачем хранимые процедуры? — какбы недоразумение
 
@@ -13,7 +13,7 @@ https://www.datadoghq.com/docker-adoption/
 
 + Why mobile web apps are slow http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/
 
-+ Empire of Code is a space game with a mix of strategy, tactics and coding. // js and python // https://empireofcode.com 
++ Empire of Code is a space game with a mix of strategy, tactics and coding. // js and python // https://empireofcode.com
 
 Новые темы для выпусков тут http://bit.ly/TAOPgit
 Подписаться на подкаст через iTunes http://bit.ly/TAOPiTunes
