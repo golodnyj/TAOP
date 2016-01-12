@@ -21,3 +21,5 @@
 
 Два слова о #hazelcast в юбилейном подкасте The Art Of Programming , http://bit.ly/TAOP100share
 
+http://theartofprogramming.podbean.com/mf/play/sizfea/100TheArtOfProgrammingJavaLearningHazelcast.mp3
+

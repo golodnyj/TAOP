@@ -21,5 +21,6 @@
 Подписаться на подкаст по RSS без iTunes http://bit.ly/TAOPrss
 Скачать подкаст тут http://bit.ly/TAOP101mp3
 
+
 твит: 
 101 выпуск подкаст The Art Of Programming , трём за хранимые процедуры http://bit.ly/TAOP101share подписывайтесь в iTunes +)
