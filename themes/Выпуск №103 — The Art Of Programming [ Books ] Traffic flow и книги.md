@@ -13,11 +13,15 @@
 
 + Вкусные книги 030 — Шуттовская рота  фантастика // http://bit.ly/TastyBooks30shared
 
+ + Благодарности патронам: Sergey Kiselev и Pavel Drobushevich
+
 Поддержи подкаст тут http://bit.ly/TAOPpatron
 Новые темы для выпусков тут http://bit.ly/TAOPgit
 Подписаться на подкаст через iTunes http://bit.ly/TAOPiTunes
 Подписаться на подкаст по RSS без iTunes http://bit.ly/TAOPrss
 Скачать подкаст тут http://bit.ly/TAOP103mp3
 
+http://theartofprogramming.podbean.com/mf/play/dm7w52/103TheArtOfProgrammingBooksTrafficflow.mp3
+
 твит: 
-Про Traffic flow и книги в новогоднем 103 выпуске The Art Of Programming, http://bit.ly/TAOP103share подписывайтесь в iTunes +)
+Про Traffic flow и книги в постновогоднем 103 выпуске The Art Of Programming, http://bit.ly/TAOP103share подписывайтесь в iTunes +)
