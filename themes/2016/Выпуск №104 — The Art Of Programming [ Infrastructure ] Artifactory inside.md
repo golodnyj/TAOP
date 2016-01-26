@@ -17,8 +17,9 @@
 
 
 твит: 
-Artifactory, Bintray и Mission Control в 104 выпуске The Art Of Programming, http://bit.ly/TAOP104share подписывайтесь в iTunes +)
+Шумный 104 выпуск The Art Of Programming подкаста о Artifactory, Bintray и Mission Control, http://bit.ly/TAOP104share подписывайтесь в iTunes +)
 
+ 
 
 
 
