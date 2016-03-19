@@ -2,6 +2,7 @@
 
 + DevOps в вебе. Кто как поддерживает и деплоит веб-приложения, разные environments, виртуализация, CI.  #TeamCity #Jenkins #Chief #Puppet #Vagrant #Docker
 + Paxos
++ Новый AppCompat (http://android-developers.blogspot.com/2016/02/android-support-library-232.html)
 
 
 # Вопросы из зала:
