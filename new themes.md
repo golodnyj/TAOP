@@ -8,6 +8,8 @@
 + Kubernetes 1.2 (https://github.com/kubernetes/kubernetes/wiki/Release-1.2)
 + Details about Jack/JIT/etc;
 + Google Speech recognition API: https://cloud.google.com/speech/
++ Manage IT
++ FlumeJava
 
 
 # Вопросы из зала:
