@@ -10,6 +10,7 @@
 + Google Speech recognition API: https://cloud.google.com/speech/
 + Manage IT
 + FlumeJava
++ JetBrains и Gradle [объявили о сотрудничестве](http://www.businesswire.com/news/home/20160517006230/en/Gradle-Elevates-Build-First-Class-Programming-Kotlin-Language) для поддержки языка Kotlin в Gradle скриптах
 
 
 # Вопросы из зала:
