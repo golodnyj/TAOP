@@ -13,7 +13,5 @@
 Скачай подкаст http://bit.ly/TAOP122mp3
 Старые выпуски http://bit.ly/oldtaop
 
-https://theartofprogramming.podbean.com/mf/play/ydhiep/_122_The_Art_Of_Programming_DB_.mp3
-
 твит: 
 Bazel, собеседования и шапочка из фольги в 122 выпуске The Art Of Programming, http://bit.ly/TAOP122share подписывайтесь в iTunes +) 
