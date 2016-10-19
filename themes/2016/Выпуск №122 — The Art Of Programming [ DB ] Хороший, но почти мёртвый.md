@@ -14,4 +14,4 @@
 Старые выпуски http://bit.ly/oldtaop
 
 твит: 
-Bazel, собеседования и шапочка из фольги в 122 выпуске The Art Of Programming, http://bit.ly/TAOP122share подписывайтесь в iTunes +) 
+Хороший, но почти мёртвый в 122 выпуске The Art Of Programming, http://bit.ly/TAOP122share подписывайтесь в iTunes +) 
