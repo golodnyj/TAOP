@@ -2,20 +2,4 @@
 
 + в москве devops day 11 марта проходит. доклады не огонь но туса забавная. организатор александ тртов я думаю запросто к тебе в гости зайдет рассказать как двигает девопс
 + DevOps в вебе. Кто как поддерживает и деплоит веб-приложения, разные environments, виртуализация, CI.  #TeamCity #Jenkins #Chief #Puppet #Vagrant #Docker
-+ Paxos
-+ Новый AppCompat (http://android-developers.blogspot.com/2016/02/android-support-library-232.html)
-+ Спасибо за подкаст! Как по твоему насколько реально перекинуться в программисты когда тебе 30+? Небольшое пояснение. Мне 32, в IT с универа. Последние годы работаю в крупном системном интеграторе инженером по внедрению систем мониторинга. И проекты вроде интересные у крупных заказчиков и опыт какой-то приходит но всё это как бы утомляет. В свободное время пытаюсь что-то писать на `Python` учу его дальше, поковырял `Java`. Проникся трепетом и уважением :) но дальше простых опытов дело пока не пошло. Главное, что мне всё это очень нравится. *Что ты вообще думаешь о подобного рода смене деятельности?*
-+ CD и Amazon CodeDeploy (http://aws.amazon.com/codedeploy/)
-+ Kubernetes 1.2 (https://github.com/kubernetes/kubernetes/wiki/Release-1.2)
-+ Details about Jack/JIT/etc;
-+ Google Speech recognition API: https://cloud.google.com/speech/
-+ Manage IT
-+ FlumeJava
-+ JetBrains и Gradle [объявили о сотрудничестве](http://www.businesswire.com/news/home/20160517006230/en/Gradle-Elevates-Build-First-Class-Programming-Kotlin-Language) для поддержки языка Kotlin в Gradle скриптах
-
-
-# Вопросы из зала:
-
-+ В чем разница между ARM и x86;
-
-+ Pavel Drobushevich передложил статью Томский http://tonsky.me/blog/the-web-after-tomorrow/
++ Article about the TPU and specialized hardware http://perspectives.mvdirona.com/2017/04/tensor-processing-unit/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue
