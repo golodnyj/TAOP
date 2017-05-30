@@ -1,5 +1,5 @@
 
-В гостях Алексей Григорьев @Mad_Scorp mad-scorp@snowforged.com
+В гостях Алексей Григорьев @Mad\_Scorp mad-scorp@snowforged.com
 Два слова про Starfall Tactics
 О команде Snowforged Entertainment
 
@@ -12,6 +12,4 @@
 Старые выпуски http://bit.ly/oldtaop
 
 твит: 
-Геймдев, такой геймдев в 133 выпуске The Art Of Programming, http://bit.ly/TAOP132share  подписывайтесь в iTunes +)
-
-https://theartofprogramming.podbean.com/mf/play/z5gwr7/_133_The_Art_Of_Programming_GD_.mp3
+Геймдев, такой геймдев в 133 выпуске The Art Of Programming, http://bit.ly/TAOP133share  подписывайтесь в iTunes +)
